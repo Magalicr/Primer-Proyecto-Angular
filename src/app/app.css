@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(5, 5, 182);
+    font-family: arial, sansa-serif;
+}
+h2,h3 {
+    font-family: arial, sansa-serif;
+    background: linear-gradient(45deg,#410780,#410985);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent ;
+    margin-bottom: 4px;
+    display: inline-block;
+
+
+}
+
+.comentario {
+    background-color: #b36ffc;
+border-left: 5px solid #7c797e ;
+padding: 15px;
+margin: 20px 0 ;
+border-radius: 4px;
+font-style: italic;
+color: #474747;
+max-width: 600px;
+}
