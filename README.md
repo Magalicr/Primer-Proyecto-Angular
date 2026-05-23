@@ -1,18 +1,28 @@
 
-/*
+# Primer Proyecto Angular
 
+Celeste Magali Romero, estudiante de Analista de sistemas, hice el curso de html, js y css en utn, y a pesar de que realice diversos cursos, este es el primero sobre framware. 
+mi proyecto responde a la tarea asignada para el curso de angular, mi intención es hacer una pagina mas completa a lo largo de la cursada.
 
-*/
+---
 
+### Carpetas y archivos más importantes:
 
+- **src/app:** núcleo de todos los recursos que utiliza la aplicación, con su código fuente principal, estructura lógica y diseño.
 
+- **app.component.ts:** componente raíz de la app , donde creamos las variables, funciones que impactan en nuestra pagina 
 
+- **app.module.ts:** modulo principal de la app, (lógica del componente, servicio y dependencias)
+
+- **assets/:** archivos que se pueden agregar a nuestra app, imágenes videos 
+
+- **environments/:** es el entorno de configuración, se centra el desarrollo y producción del mismo
 
 
 
 # PrimerProyectoAngular
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.12.
+This project was generated using [Angular CLI](https://.com/angular/angular-cli) version 21.2.12.
 
 ## Development server
 
